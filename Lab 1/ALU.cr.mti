@@ -1,0 +1,15 @@
+{C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/alu.sv} {1 {vlog -work work -sv -stats=none {C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/alu.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/TestBench.sv} {1 {vlog -work work -sv -stats=none {C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/TestBench.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alutestbench
+
+Top level modules:
+	alutestbench
+
+} {} {}}

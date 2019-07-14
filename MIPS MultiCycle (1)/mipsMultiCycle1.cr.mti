@@ -1,0 +1,22 @@
+{C:/Users/adelm/Desktop/MIPS MultiCycle (1)/testbench.sv} {1 {vlog -work work -sv -stats=none {C:/Users/adelm/Desktop/MIPS MultiCycle (1)/testbench.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/adelm/Desktop/MIPS MultiCycle (1)/controller.sv} {1 {vlog -work work -sv -stats=none {C:/Users/adelm/Desktop/MIPS MultiCycle (1)/controller.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/adelm/Desktop/MIPS MultiCycle (1)/aludec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/adelm/Desktop/MIPS MultiCycle (1)/aludec.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}}

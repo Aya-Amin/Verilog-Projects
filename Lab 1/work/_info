@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+valu
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1520430225
+!i10b 1
+!s100 `RaRQ@QUgk8o8Xk``6DO[0
+IILgNZiQ@<z=^i46QSW6Qb2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Slmaa_sv_unit
+S1
+Z3 dC:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1
+w1520426685
+8C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/Slmaa.sv
+FC:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/Slmaa.sv
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1520430225.000000
+!s107 C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/Slmaa.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/Slmaa.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valutestbench
+R0
+R1
+!i10b 1
+!s100 I2hbIR>f3R5mN:]Wo7;<E1
+I1?=ni:abl6ji[Q`P9nK9<0
+R2
+!s105 TEST_sv_unit
+S1
+R3
+w1520426693
+8C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/TEST.sv
+FC:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/TEST.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/TEST.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Data files/01- Aya/College/Semester 6/Computer Architecture/Labs/Assignments/Lab 1/TEST.sv|
+!s101 -O0
+!i113 1
+R6

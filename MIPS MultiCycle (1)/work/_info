@@ -1,0 +1,106 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+valudec
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1524823711
+!i10b 1
+!s100 I5F<K]^52nOZ]kc[?JAK=1
+IEGP=PF?g@]@:e<9D]3O]@3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 aludec_sv_unit
+S1
+Z3 dC:/Users/adelm/Desktop/MIPS MultiCycle (1)
+w1524213764
+8C:/Users/adelm/Desktop/MIPS MultiCycle (1)/aludec.sv
+FC:/Users/adelm/Desktop/MIPS MultiCycle (1)/aludec.sv
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1524823711.000000
+!s107 C:/Users/adelm/Desktop/MIPS MultiCycle (1)/aludec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/adelm/Desktop/MIPS MultiCycle (1)/aludec.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vcontroller
+R0
+R1
+!i10b 1
+!s100 MSE:1:k4;B`60Kog4Q4ki3
+If0h[cbaz;i9en8Y_S@K442
+R2
+!s105 controller_sv_unit
+S1
+R3
+w1524752604
+8C:/Users/adelm/Desktop/MIPS MultiCycle (1)/controller.sv
+FC:/Users/adelm/Desktop/MIPS MultiCycle (1)/controller.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/adelm/Desktop/MIPS MultiCycle (1)/controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/adelm/Desktop/MIPS MultiCycle (1)/controller.sv|
+!s101 -O0
+!i113 1
+R6
+vmaindec
+R0
+R1
+!i10b 1
+!s100 fgX[]CQdj?Y]AY]2?8oB>3
+Ih8jiV?lcQFY:3FREFJ:?I0
+R2
+!s105 maindec_sv_unit
+S1
+R3
+w1524687212
+8C:/Users/adelm/Desktop/MIPS MultiCycle (1)/maindec.sv
+FC:/Users/adelm/Desktop/MIPS MultiCycle (1)/maindec.sv
+L0 4
+R4
+r1
+!s85 0
+31
+!s108 1524823710.000000
+!s107 C:/Users/adelm/Desktop/MIPS MultiCycle (1)/maindec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/adelm/Desktop/MIPS MultiCycle (1)/maindec.sv|
+!s101 -O0
+!i113 1
+R6
+vtestbench
+R0
+!s110 1524824485
+!i10b 1
+!s100 ;OT1nA_@[d<Yio3fJPdbm0
+ImWUAOHjeDEjbf]?PA1E;=1
+R2
+!s105 testbench_sv_unit
+S1
+R3
+w1524824472
+8C:/Users/adelm/Desktop/MIPS MultiCycle (1)/testbench.sv
+FC:/Users/adelm/Desktop/MIPS MultiCycle (1)/testbench.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1524824485.000000
+!s107 C:/Users/adelm/Desktop/MIPS MultiCycle (1)/testbench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/adelm/Desktop/MIPS MultiCycle (1)/testbench.sv|
+!s101 -O0
+!i113 1
+R6
